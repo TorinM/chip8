@@ -1,10 +1,14 @@
 # Implementation Of A Chip-8 Emulator Written In Rust
 
-* Why? Why not
+Relies on SDL2
 
-## How to Use
+## How to Run
 
-This project is built using cargo and comes with multiple existing [samples](./desktop/samples/) to test with
+Move into the [desktop](./desktop/) folder and use `cargo run`.
+
+## Samples
+Samples to test with are provided in [samples](./desktop/samples/).
+
 
 ## Contact
 
